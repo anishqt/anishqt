@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anishqt
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on codepen.io
-- 📫 How to reach me tanishqranjan24@gmail.com
+-  I’m interested in web development
+- I’m currently learning machine learning
+-  I’m looking to collaborate on codepen.io
+-  How to reach me tanishqranjan24@gmail.com
 
 
 <!---
